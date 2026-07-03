@@ -1,4 +1,4 @@
-# 
+# Exclusive SummarizeX package. Download and install with high-performance and python-compatibility — fast, secure, and easy to use.
 
 
 
